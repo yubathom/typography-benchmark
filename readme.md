@@ -1,0 +1,1 @@
+typography/performance benchmark comparing system font with optimized fonts loaded asynchronously with next.js and tailwind
